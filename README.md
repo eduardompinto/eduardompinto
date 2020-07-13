@@ -17,7 +17,7 @@ How to reach me:
 Olá, eu sou o Eduardo (ele/dele), nascido em Sāo Paulo, Brasil 🇧🇷, em 1990. 
 Eu sou formado em [Sistemas de Informaçāo pela Universidade de Sāo Paulo](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=86&codcur=86200&codhab=204&tipo=N), e trabalho com programaçāo desde 2010. 
 Passei por [@cobliteam](https://github.com/cobliteam), [@GuiaBolso](https://github.com/GuiaBolso), [@luizalabs](https://github.com/luizalabs) e outras três empresas que não tem @ ou não existem mais.
-Atualmente estou vivendo em Berlim, Alemanha 🇩🇪 e trabalhando para a [@hey-car](https://github.com/hey-car).
+Atualmente estou vivendo em Berlim, Alemanha 🇩🇪, e trabalhando para a [@hey-car](https://github.com/hey-car).
 
 ##### Sinta-se à vontade para trocar uma ideia nos canais mencionados acima ☝️.
 ##### Estou disponível para mentoria pro bono de pessoas desenvolvedoras.
