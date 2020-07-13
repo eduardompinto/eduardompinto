@@ -58,7 +58,8 @@ Acho que cozinha e código tem tudo a ver.
 - Me preocupo com a minha família que vive em um país comandado por um criminoso.
 - Gosto de ler. Desde que nāo me ligue no tema trabalho.
 - Jogar algum FPS, alguma versāo de FIFA, battle royales da vida ou mundo aberto.
-- Comer algo que nāo tenha sido um vida.
+- Comer algo que nāo tenha sido uma vida, se bem que o fermento natural tá bem vivo.
+Enfim, eu sou ovolactovegetariano.
 - Bebericar algo entre cerveja e vinho.
 - Falar groselha no Telegram com as pessoas.
 - Discutir no twitter. A imagem não cabia aqui, mas isso dai resume a internet. 
@@ -67,4 +68,4 @@ Acho que cozinha e código tem tudo a ver.
 
 ### EN
 
-Sorry, still there's no English version of this about me, but I'm sure the automatic translation can do solve this problem.
+Sorry, still there's no English version of this about me, but I'm sure the automatic translation can solve this problem.
