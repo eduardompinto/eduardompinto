@@ -62,7 +62,8 @@ Acho que cozinha e código tem tudo a ver.
 Enfim, eu sou ovolactovegetariano.
 - Bebericar algo entre cerveja e vinho.
 - Falar groselha no Telegram com as pessoas.
-- Discutir no twitter. A imagem não cabia aqui, mas isso dai resume a internet. 
+- Discutir no twitter. A imagem não cabia aqui, mas isso dai resume a internet.
+
 ![xkcd wrong on internet](https://imgs.xkcd.com/comics/duty_calls.png)
 
 
