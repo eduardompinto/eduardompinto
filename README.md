@@ -54,7 +54,7 @@ Esteje avisado.
 - Caminho nos parques de Berlim, inclusive, esse é o ponto alto dessa cidade linda.
 - Assisto vários vídeos de culinária. Mesmo eu cozinhando super mal, eu amo ver pessoas que cozinham bem. 
 Acho que cozinha e código tem tudo a ver.
-- Acredito e defendo os direitos básicos do ser-humano. E eles são muito além da liberdade de expressão.
+- Acredito e defendo os direitos básicos do ser humano. E eles são muito além da liberdade de expressão.
 - Me preocupo com a minha família que vive em um país comandado por um criminoso.
 - Gosto de ler. Desde que nāo me ligue no tema trabalho.
 - Jogar algum FPS, alguma versāo de FIFA, battle royales da vida ou mundo aberto.
