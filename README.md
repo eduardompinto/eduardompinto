@@ -6,7 +6,7 @@ Como entrar em contato comigo:
 How to reach me: 
 (Please, avoid LinkedIn)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/eduardompinto)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eduardompinto)](https://twitter.com/eduardompinto)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/eduardompinto)](https://t.me/eduardompinto)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-martins-pinto-510188a1/)](https://www.linkedin.com/in/eduardo-martins-pinto-510188a1/)
 
