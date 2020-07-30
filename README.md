@@ -20,7 +20,7 @@ Passei por [@cobliteam](https://github.com/cobliteam), [@GuiaBolso](https://gith
 Atualmente estou vivendo em Berlim, Alemanha 🇩🇪, e trabalhando para a [@hey-car](https://github.com/hey-car).
 
 ##### Sinta-se à vontade para trocar uma ideia nos canais mencionados acima ☝️.
-##### Estou disponível para mentoria pro bono de pessoas desenvolvedoras.
+##### Estou disponível para mentoria para pessoas que desejam ser/são desenvolvedoras.
 
 💻 Um pouco mais sobre aspectos técnicos, tecnologias e coisas que contam pra um git/cv:
 
@@ -40,6 +40,7 @@ Se a reuniāo nāo foi documentada ela foi perdido, mas em contrapartida o pull 
 - Acredito muito em mensagens de commits. 
 - Nāo faço o perfil de desenvolvedor de quadro branco.
 - Nāo tenho grandes habilidades com HTML, JS e CSS. 
+- Eu odeio problema inventado.
 
 🎮 ⚽ Outras informações que podem ser úteis ou não 🍞 🐈
 
