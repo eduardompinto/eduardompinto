@@ -43,29 +43,20 @@ Se a reuniāo nāo foi documentada ela foi perdido, mas em contrapartida o pull 
 
 🎮 ⚽ Outras informações que podem ser úteis ou não 🍞 🐈
 
-Atenção! Aqui eu falo de mim como pessoa e não como desenvolvedor.
-Se você não tem interesse nisso é só parar a leitura aqui.
-Esteje avisado.
+Aqui eu falo de mim como pessoa e não como desenvolvedor.
 
 - Eu gosto de passar o tempo com a minha esposa e minhas gatas. 
-- Sou corinthiano e isso importa demais.
 - Minha pilha no momento é de fazer pão, mais um efeito colateral da pandemia, se quiser discutir sobre pão estamos ai.
 - Pedalo pela cidade. Isso infelizmente está bem reduzido devido a pandemia.
 - Caminho nos parques de Berlim, inclusive, esse é o ponto alto dessa cidade linda.
 - Assisto vários vídeos de culinária. Mesmo eu cozinhando super mal, eu amo ver pessoas que cozinham bem. 
 Acho que cozinha e código tem tudo a ver.
 - Acredito e defendo os direitos básicos do ser humano. E eles são muito além da liberdade de expressão.
-- Me preocupo com a minha família que vive em um país comandado por um criminoso.
-- Gosto de ler. Desde que nāo me ligue no tema trabalho.
 - Jogar algum FPS, alguma versāo de FIFA, battle royales da vida ou mundo aberto.
-- Comer algo que nāo tenha sido uma vida, se bem que o fermento natural tá bem vivo.
-Enfim, eu sou ovolactovegetariano.
+- Eu sou vegetariano.
 - Bebericar algo entre cerveja e vinho.
 - Falar groselha no Telegram com as pessoas.
 - Discutir no twitter. A imagem não cabia aqui, mas isso dai resume a internet.
-
-![xkcd wrong on internet](https://imgs.xkcd.com/comics/duty_calls.png)
-
 
 ### EN
 
