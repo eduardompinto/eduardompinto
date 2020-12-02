@@ -24,8 +24,7 @@ Atualmente estou vivendo em Berlim, Alemanha 🇩🇪, e trabalhando para a [@he
 
 💻 Um pouco mais sobre aspectos técnicos, tecnologias e coisas que contam pra um git/cv:
 
-- Gosto de trabalhar com: Kotlin (apenas no backend), Python e Go.
-- Estou planejando aprender: Ruby, desenvolvimento mobile, JS e React, esses dois últimos mais por necessidade.  
+- Gosto de trabalhar com: Kotlin, Python e Go.
 - Nāo acredito em bala de prata e nem em programaçāo orientada a modinha (mesmo amando Kotlin).
 - Eu acredito no que entrega valor para o produto.
 - Não pretendo trabalhar com: Scala, PHP, C, C#, C++ e provavelmente algumas outras linguagens. 
