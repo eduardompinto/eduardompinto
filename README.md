@@ -49,8 +49,6 @@ Aqui eu falo de mim como pessoa e não como desenvolvedor.
 Acho que cozinha e código tem tudo a ver.
 - Acredito e defendo os direitos básicos do ser humano. E eles são muito além da liberdade de expressão.
 - Jogar algum FPS, alguma versāo de FIFA, battle royales da vida ou mundo aberto.
-- Eu sou vegetariano.
-- Bebericar algo entre cerveja e vinho.
 - Falar groselha no Telegram com as pessoas.
 - Discutir no twitter. A imagem não cabia aqui, mas isso dai resume a internet.
 
