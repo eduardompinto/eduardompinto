@@ -1,4 +1,4 @@
-### Olá/Hi 👋
+### Olá 👋
 
 Como entrar em contato comigo / How to reach me: 
 
@@ -6,7 +6,6 @@ Como entrar em contato comigo / How to reach me:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/eduardompinto)](https://t.me/eduardompinto)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-martins-pinto-510188a1/)](https://www.linkedin.com/in/eduardo-martins-pinto-510188a1/)
 
-### PT-BR 
 
 ##### Sobre mim
 
@@ -51,7 +50,3 @@ Acho que cozinha e código tem tudo a ver.
 - Jogar algum FPS, alguma versāo de FIFA, battle royales da vida ou mundo aberto.
 - Falar groselha no Telegram com as pessoas.
 - Discutir no twitter. A imagem não cabia aqui, mas isso dai resume a internet.
-
-### EN
-
-Sorry, still there's no English version of this about me, but I'm sure the automatic translation can solve this problem.
