@@ -18,29 +18,3 @@ Passei por [@hey-car](https://github.com/hey-car), [@cobliteam](https://github.c
 Hi there, my name is Eduardo, my pronouns are he/him, and I'm a software developer from Brazil 🇧🇷 and living in Germany 🇩🇪.
 I have a bachelor's in [Information Systems from the University of São Paulo (USP)](https://www5.usp.br/english/education/undergraduate/courses-offered/information-systems/), and I work with software development since 2010. 
 I worked at [@hey-car](https://github.com/hey-car), [@cobliteam](https://github.com/cobliteam), [@GuiaBolso](https://github.com/GuiaBolso), [@luizalabs](https://github.com/luizalabs), and some older companies that do not have a Github account.
-
-##### Feel free to reach me on any of the channels above ☝️.
-
-
-💻 Um pouco mais sobre aspectos técnicos, tecnologias e coisas que contam pra um git/cv:
-
-- Gosto de trabalhar com: Kotlin, Python e Go.
-- Nāo acredito em bala de prata.
-- Eu **acredito** no que entrega valor para o produto.
-- Acredito em TDD, apesar se ser muito mais fácil falar do que fazer e muita gente usa errado. 
-- Nāo gosto de discutir problemas irrelevantes. Por exemplo: eu amo o gofmt. 
-- Gosto bastante de falar sobre código e como melhorar a escrita dele. 
-- Gosto bastante de uma comunicaçāo clara, por escrito e assíncrona.
-- Acredito muito em mensagens de commits. 
-
-
-🎮 ⚽ Outras informações que podem ser úteis ou não 🍞 🐈
-
-Aqui eu falo de mim como pessoa e não como desenvolvedor.
-
-- Eu amo minha família.
-- Curto pedalar, mas a pandemia ta me quebrando.
-- Caminho nos parques de Berlim.
-- Assisto vários vídeos de culinária. Mesmo eu cozinhando super mal, eu amo ver pessoas que cozinham bem. 
-- Acredito e defendo os direitos básicos do ser humano.
-- Me chama na PSN!
