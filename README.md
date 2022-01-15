@@ -9,7 +9,7 @@ Como entrar em contato comigo / How to reach me (not looking for new a job):
 
 Olá, me chamo Eduardo (ele/dele), Brasileiro 🇧🇷 e morando atualmente na Alemanha 🇩🇪.
 Eu sou formado em [Sistemas de Informaçāo pela Universidade de Sāo Paulo](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=86&codcur=86200&codhab=204&tipo=N), e trabalho com programaçāo desde 2010. 
-Passei por [@hey-car](https://github.com/hey-car), [@cobliteam](https://github.com/cobliteam), [@GuiaBolso](https://github.com/GuiaBolso), [@luizalabs](https://github.com/luizalabs) e outras empresas que não tem github.
+Passei por [@wolt](https://github.com/woltapp), [@hey-car](https://github.com/hey-car), [@cobliteam](https://github.com/cobliteam), [@GuiaBolso](https://github.com/GuiaBolso), [@luizalabs](https://github.com/luizalabs) e outras empresas que não tem github.
 
 ##### Sinta-se à vontade para trocar uma ideia nos canais mencionados acima ☝️.
 
