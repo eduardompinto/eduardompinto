@@ -17,4 +17,4 @@ Passei por [@wolt](https://github.com/woltapp), [@hey-car](https://github.com/he
 
 Hi there, my name is Eduardo, my pronouns are he/him, and I'm a software developer from Brazil 🇧🇷 and living in Germany 🇩🇪.
 I have a bachelor's in [Information Systems from the University of São Paulo (USP)](https://www5.usp.br/english/education/undergraduate/courses-offered/information-systems/), and I work with software development since 2010. 
-I worked at [@hey-car](https://github.com/hey-car), [@cobliteam](https://github.com/cobliteam), [@GuiaBolso](https://github.com/GuiaBolso), [@luizalabs](https://github.com/luizalabs), and some older companies that do not have a Github account.
+I worked at [@wolt](https://github.com/woltapp), [@hey-car](https://github.com/hey-car), [@cobliteam](https://github.com/cobliteam), [@GuiaBolso](https://github.com/GuiaBolso), [@luizalabs](https://github.com/luizalabs), and some older companies that do not have a Github account.
