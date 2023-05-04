@@ -1,5 +1,3 @@
-### Open to work
-
 ### Olá/Hi 👋
 
 Como entrar em contato comigo / How to reach me
