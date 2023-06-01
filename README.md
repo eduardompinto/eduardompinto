@@ -1,7 +1,5 @@
 ### Olá/Hi 👋
 
-## I'm open to work ;) 
-
 Como entrar em contato comigo / How to reach me
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/eduardompinto)](https://t.me/eduardompinto)
